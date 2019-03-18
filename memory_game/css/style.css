@@ -25,7 +25,7 @@ nav {
 }
 a {
 	font-family: "Raleway", sans-serif;
-	color: #F15B31;
+	color: white;
 	letter-spacing: 1px;
 	font-weight: 600;
 	font-size: 18px;
@@ -89,4 +89,14 @@ footer {
 .name {
 	font-weight: 700;
 	color: #F15B31;
+}
+
+button {
+	margin-top: 15px;
+	background-color: #F15B31;
+	color: #0D2C40;
+	font-family: Raleway, sans-serif;
+	font-size: 15pt;
+	padding: 5px;
+	border-radius: 5px;
 }
